@@ -6,7 +6,7 @@
  * SPDX-License-Identifier: Apache-2.0.
  */
 
-#include <aws/common/aws_byte_cursor.h>
+#include <aws/common/byte_buf.h>>
 
 extern const struct aws_byte_cursor aws_s3_endpoint_resolver_partitions;
 extern const struct aws_byte_cursor aws_s3_endpoint_rule_set;
