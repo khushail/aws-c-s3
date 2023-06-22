@@ -4,6 +4,7 @@
  */
 
 #include <aws/s3/s3_endpoint_resolver.h>
+#include <aws/s3/private/s3_endpoint_resolver.h>
 #include <aws/sdkutils/endpoints_rule_engine.h>
 #include <aws/sdkutils/partitions.h>
 
